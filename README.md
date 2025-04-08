@@ -1,5 +1,5 @@
 ```
-                 _       _     _                _
+               _       _     _               _
  ___ _   _  __| | ___ | |__ | | ___  ___  __| |
 / __| | | |/ _` |/ _ \| '_ \| |/ _ \/ _ \/ _` |
 \__ \ |_| | (_| | (_) | |_) | |  __/  __/ (_| |
@@ -78,4 +78,9 @@ $ finger sudobleed
 github  :: github.com/sudobleed
 pgp     :: on request
 inbox   :: /dev/null (mostly)
+```
+
+```
+> exit
+Connection to sudobleed closed.
 ```
