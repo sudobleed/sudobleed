@@ -10,3 +10,7 @@
 > whoami
 sudobleed :: operator / infra / offsec
 ```
+
+`root@sudobleed:~#` _privilege escalation is a lifestyle._
+
+---
