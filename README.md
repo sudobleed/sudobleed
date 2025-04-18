@@ -51,3 +51,15 @@ UPTIME       = $(uptime -p)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=00ff00)
 
 ---
+
+### // interests
+
+```
+├── networking .......... packets, protocols, the wire
+├── offensive security .. recon, exploitation, post-ex
+├── infrastructure ...... distributed systems, resilience
+├── automation .......... if it runs twice, it gets scripted
+└── observability ....... logs, traces, the truth in metrics
+```
+
+---
