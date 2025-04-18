@@ -37,3 +37,17 @@ UPTIME       = $(uptime -p)
 [code]       Python · Node.js · Bash
 [observe]    Datadog · Prometheus · tcpdump
 ```
+
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=00ff00)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=00ff00)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=00ff00)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=flat-square&logo=terraform&logoColor=00ff00)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat-square&logo=jenkins&logoColor=00ff00)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=00ff00)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js&logoColor=00ff00)
+![Bash](https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnubash&logoColor=00ff00)
+![Datadog](https://img.shields.io/badge/-Datadog-000?style=flat-square&logo=datadog&logoColor=00ff00)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=00ff00)
+
+---
