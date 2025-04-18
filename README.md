@@ -14,3 +14,16 @@ sudobleed :: operator / infra / offsec
 `root@sudobleed:~#` _privilege escalation is a lifestyle._
 
 ---
+
+### // signal
+
+```bash
+$ cat .profile
+NAME         = "sudobleed"
+ROLE         = "infra / devops / offsec"
+LOCATION     = /dev/null
+STATUS       = online
+UPTIME       = $(uptime -p)
+```
+
+---
