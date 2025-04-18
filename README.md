@@ -27,3 +27,13 @@ UPTIME       = $(uptime -p)
 ```
 
 ---
+
+### // stack
+
+```
+[os]         Linux · Bash · /proc · /sys
+[cloud]      AWS · Terraform · Kubernetes · Docker
+[ci/cd]      Jenkins · GitOps · Git
+[code]       Python · Node.js · Bash
+[observe]    Datadog · Prometheus · tcpdump
+```
