@@ -63,3 +63,10 @@ UPTIME       = $(uptime -p)
 ```
 
 ---
+
+### // stats
+
+![sudobleed's stats](https://github-readme-stats.vercel.app/api?username=sudobleed&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudobleed&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
+
+---
