@@ -64,6 +64,19 @@ UPTIME       = $(uptime -p)
 
 ---
 
+### // now
+
+```bash
+$ ps -eo user,pid,stat,cmd | grep sudobleed
+sudobleed   1337  R<  kubectl -n prod logs -f --tail=200
+sudobleed   2048  S   terraform plan -out=/tmp/drift.tfplan
+sudobleed   4096  S<  tcpdump -i any -nn 'tcp and port 443'
+sudobleed   8192  R   datadog-agent status
+sudobleed  16384  S+  vim ~/.ssh/config
+```
+
+---
+
 ### // stats
 
 ![sudobleed's stats](https://github-readme-stats.vercel.app/api?username=sudobleed&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00)
